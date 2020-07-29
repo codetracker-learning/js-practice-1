@@ -265,7 +265,6 @@ The "Greater Than" symbol ( `>` ) you see in the last example is called a Compar
 
 Node.js is a runtime environment developed originally for use on backend servers. We will need to install it on our machines in order to complete the exercises over the next four days. To install Node please click here: [Download and install Node.js](https://nodejs.org/en/download/). Node comes shipped with "NPM". NPM is a package manager for javascript packages. Once you have installed Node.js, you do not need to do anything else to install NPM.
 
-
 ## Additional Resources
 
 - [Codecademy: Learn Javascript](https://www.codecademy.com/learn/learn-javascript)
@@ -276,9 +275,9 @@ Node.js is a runtime environment developed originally for use on backend servers
 
 ---
 
-# Homework: Introduction to Javascript, JSI
+# Homework Instructions
 
-## Instructions
+1. Go though and solve the challenges in the [main.js](./main.js) file.
 
 1. Feynman Writing Prompts - In a seprate text file that you create, write out explanations of the following concepts like you are explaining it to a 12 year old. Doing this will help you quickly discover any holes in your understanding.
    - Variables
