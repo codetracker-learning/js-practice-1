@@ -8,24 +8,30 @@
 
 ## Instructions to use
 
-1. Clone this repo to your local
+1. Navigate to the directory that you will clone the repo
+
+```
+$ cd workspace/foundations/exercises
+```
+
+2. Clone this repo to your local
 
 ```
 $ git clone [LINK_TO_THIS_REPO]
 ```
 
-2. Install packages
+3. Install packages
 
 ```
 $ npm install
 ```
-3. Create a new branch
+4. Create a new branch
 
 ```
 $ git checkout -b YOUR-BRANCH-NAME
 ```
 
-4. Start Coding
+5. Start Coding - Open the `main.js` file and add your code in the file.
 
 ## To Test Your Changes
 After you make the changes to the challenges, you can run a test to see if your answers are correct. You can run this as many times as needed until all the tests pass.
