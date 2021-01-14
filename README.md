@@ -40,10 +40,10 @@ After you make the changes to the challenges, you can run a test to see if your 
 $ npm test main.test.js
 ```
 
-Failing tests will have red in the final output
+#### Failing tests will have red in the final output
 ![failing](./images/failing-tests.png)
 
-All passing tests will be green. This means you are completed with this exercise.
+#### All passing tests will be green. This means you are completed with this exercise.
 ![passing](./images/passing-tests.png)
 
 ## To Submit Your Challenge
