@@ -4,7 +4,7 @@
 //1. create a string variable, it can contain anything
 const newString = null;
 
-//2. create a number variable, it an be any number
+//2. create a number variable, it can be any number
 const newNum = null;
 
 //3. create a boolean variable
