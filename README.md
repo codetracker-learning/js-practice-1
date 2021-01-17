@@ -18,13 +18,13 @@ $ cd workspace/foundations/exercises
 
 ```
 $ git clone [LINK_TO_THIS_REPO]
-$ cd YOUR-REPO-NAME
+$ cd {YOUR-REPO-NAME}
 ```
 
 3. Install packages
 
 ```
-$ npm install
+$ sudo npm install
 ```
 4. Create a new branch
 
@@ -38,7 +38,7 @@ $ git checkout -b YOUR-BRANCH-NAME
 After you make the changes to the challenges, you can run a test to see if your answers are correct. You can run this as many times as needed until all the tests pass.
 
 ```
-$ npm test main.test.js
+$ sudo npm test main.test.js
 ```
 
 #### Failing tests will have red in the final output
